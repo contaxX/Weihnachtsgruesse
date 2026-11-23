@@ -2,4 +2,4 @@
 ├─ index.html
 └─ assets/
    ├─ contaxx-logo.png
-   └─ buero-weihnacht.png   
+   └─ buero-weihnacht.png  
